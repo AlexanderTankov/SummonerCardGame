@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2_OOP_prakt_Game", "Project2_OOP_prakt_Game\Project2_OOP_prakt_Game.vcxproj", "{E241FBBD-56E5-4121-9536-0A185DB7CA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E241FBBD-56E5-4121-9536-0A185DB7CA66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E241FBBD-56E5-4121-9536-0A185DB7CA66}.Debug|Win32.Build.0 = Debug|Win32
+		{E241FBBD-56E5-4121-9536-0A185DB7CA66}.Release|Win32.ActiveCfg = Release|Win32
+		{E241FBBD-56E5-4121-9536-0A185DB7CA66}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
